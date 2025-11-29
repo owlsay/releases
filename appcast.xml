@@ -3,15 +3,6 @@
     <channel>
         <title>OwlSay</title>
         <item>
-            <title>0.2.0</title>
-            <pubDate>Sat, 29 Nov 2025 08:17:40 +0000</pubDate>
-            <link>https://github.com/owlsay/releases/releases</link>
-            <sparkle:version>14</sparkle:version>
-            <sparkle:shortVersionString>0.2.0</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/owlsay/releases/releases/download/v0.2.0/OwlSay-v0.2.0.dmg" length="4341481" type="application/octet-stream" sparkle:edSignature="kbAkvyTP3jQBBfl17+J6Uguh/C+G8dfI4Bm61XDuVkemazpz1jpEDfia0ZKMZRJMjLe01X+ONARhs9HweJCeBw=="/>
-        </item>
-        <item>
             <title>0.1.4</title>
             <pubDate>Wed, 26 Nov 2025 17:37:18 +0000</pubDate>
             <link>https://github.com/owlsay/releases/releases</link>
