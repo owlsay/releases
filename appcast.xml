@@ -3,6 +3,15 @@
     <channel>
         <title>OwlSay</title>
         <item>
+            <title>0.3.1</title>
+            <pubDate>Mon, 01 Dec 2025 10:45:18 +0000</pubDate>
+            <link>https://github.com/owlsay/releases/releases</link>
+            <sparkle:version>26</sparkle:version>
+            <sparkle:shortVersionString>0.3.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/owlsay/releases/releases/download/v0.3.1/OwlSay-v0.3.1.dmg" length="5505556" type="application/octet-stream" sparkle:edSignature="owFHqm555mpQ27FIDPYmVJS/t1peicuttQoE8mnwiywEoLDq62nSqN09i9qnutUadCI8dVfZ/3Ma7nOizX2uAw=="/>
+        </item>
+        <item>
             <title>0.3.0</title>
             <pubDate>Sun, 30 Nov 2025 13:57:01 +0000</pubDate>
             <link>https://github.com/owlsay/releases/releases</link>
@@ -19,15 +28,6 @@
             <sparkle:shortVersionString>0.2.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
             <enclosure url="https://github.com/owlsay/releases/releases/download/v0.2.0/OwlSay-v0.2.0.dmg" length="4341520" type="application/octet-stream" sparkle:edSignature="nEuKGF5JHF6dcf4nRmcmx2RIICVUTsLYQjL7qmrxCcUjJkI4+1kFnJO5QYnOzYo3fLB9nK/2zV3Fc74qEzlMAg=="/>
-        </item>
-        <item>
-            <title>0.1.4</title>
-            <pubDate>Wed, 26 Nov 2025 17:37:18 +0000</pubDate>
-            <link>https://github.com/owlsay/releases/releases</link>
-            <sparkle:version>13</sparkle:version>
-            <sparkle:shortVersionString>0.1.4</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/owlsay/releases/releases/download/v0.1.4/OwlSay-v0.1.4.dmg" length="4210312" type="application/octet-stream" sparkle:edSignature="igxXRBrRvlBf7eEpkiE6jAf+c7YngWCVcCon3OCC/RhBi7Jiu4PmvqELePg/ESJmzSNPjkd2sQfKh9j6sb6mBQ=="/>
         </item>
     </channel>
 </rss>
