@@ -3,6 +3,16 @@
     <channel>
         <title>OwlSay</title>
         <item>
+            <title>0.4.4</title>
+            <pubDate>Wed, 31 Dec 2025 12:13:07 +0000</pubDate>
+            <link>https://github.com/owlsay/releases/releases</link>
+            <sparkle:version>40</sparkle:version>
+            <sparkle:shortVersionString>0.4.4</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <sparkle:releaseNotesLink>https://owlsay.github.io/releases/OwlSay-v0.4.4.html</sparkle:releaseNotesLink>
+            <enclosure url="https://github.com/owlsay/releases/releases/download/v0.4.4/OwlSay-v0.4.4.dmg" length="5496972" type="application/octet-stream" sparkle:edSignature="k5HXm2elNFvbnctjtLg8cvc8CMLiw4a72sKjYfn4Sdh8wK9OM8GmXZS1Fs+ryVDbUeL83e6MHhYm4Sn3jvtTBQ=="/>
+        </item>
+        <item>
             <title>0.4.3</title>
             <pubDate>Wed, 31 Dec 2025 12:06:33 +0000</pubDate>
             <link>https://github.com/owlsay/releases/releases</link>
@@ -21,16 +31,6 @@
             <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
             <sparkle:releaseNotesLink>https://owlsay.github.io/releases/OwlSay-v0.4.3.html</sparkle:releaseNotesLink>
             <enclosure url="https://github.com/owlsay/releases/releases/download/v0.4.3/OwlSay-v0.4.3.dmg" length="5497066" type="application/octet-stream" sparkle:edSignature="qMbLWrVjcAcg1wlMywj4DmfhToZ/NScFSj1VsbByVMwUmWdfqgvNo4x4Fq8wLIJdyscopBalIKGHIiDn0VUXDA=="/>
-        </item>
-        <item>
-            <title>0.4.2</title>
-            <pubDate>Wed, 31 Dec 2025 11:41:55 +0000</pubDate>
-            <link>https://github.com/owlsay/releases/releases</link>
-            <sparkle:version>36</sparkle:version>
-            <sparkle:shortVersionString>0.4.2</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
-            <sparkle:releaseNotesLink>https://owlsay.github.io/releases/OwlSay-v0.4.2.html</sparkle:releaseNotesLink>
-            <enclosure url="https://github.com/owlsay/releases/releases/download/v0.4.2/OwlSay-v0.4.2.dmg" length="5497037" type="application/octet-stream" sparkle:edSignature="rTYfjxS35gxzrl4XisvrxzRqeJaxYoIkBIo49DqhrHlwybu22Llc1l7lPcEHW7AuC8ZZtbcm3p+9itrQEOHIAQ=="/>
         </item>
     </channel>
 </rss>
