@@ -1,36 +1,5 @@
-<?xml version="1.0" standalone="yes"?>
-<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+<rss version="2.0">
     <channel>
         <title>OwlSay</title>
-        <item>
-            <title>0.4.2</title>
-            <pubDate>Wed, 31 Dec 2025 12:33:03 +0000</pubDate>
-            <link>https://github.com/owlsay/releases/releases</link>
-            <sparkle:version>41</sparkle:version>
-            <sparkle:shortVersionString>0.4.2</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
-            <sparkle:releaseNotesLink>https://owlsay.github.io/releases/OwlSay-v0.4.2.html</sparkle:releaseNotesLink>
-            <enclosure url="https://github.com/owlsay/releases/releases/download/v0.4.2/OwlSay-v0.4.2.dmg" length="5496993" type="application/octet-stream" sparkle:edSignature="W0ucBzIchUbBNIEAHZO2ynshVKUm8QbqXWHWk6UgdZegYFCWMj5toweSxXO11J6fHqAD9QlWn4lUp+xX/1hiBw=="/>
-        </item>
-        <item>
-            <title>0.4.4</title>
-            <pubDate>Wed, 31 Dec 2025 12:13:07 +0000</pubDate>
-            <link>https://github.com/owlsay/releases/releases</link>
-            <sparkle:version>40</sparkle:version>
-            <sparkle:shortVersionString>0.4.4</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
-            <sparkle:releaseNotesLink>https://owlsay.github.io/releases/OwlSay-v0.4.4.html</sparkle:releaseNotesLink>
-            <enclosure url="https://github.com/owlsay/releases/releases/download/v0.4.4/OwlSay-v0.4.4.dmg" length="5496972" type="application/octet-stream" sparkle:edSignature="k5HXm2elNFvbnctjtLg8cvc8CMLiw4a72sKjYfn4Sdh8wK9OM8GmXZS1Fs+ryVDbUeL83e6MHhYm4Sn3jvtTBQ=="/>
-        </item>
-        <item>
-            <title>0.4.3</title>
-            <pubDate>Wed, 31 Dec 2025 12:06:33 +0000</pubDate>
-            <link>https://github.com/owlsay/releases/releases</link>
-            <sparkle:version>39</sparkle:version>
-            <sparkle:shortVersionString>0.4.3</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
-            <sparkle:releaseNotesLink>https://owlsay.github.io/releases/OwlSay-v0.4.3.html</sparkle:releaseNotesLink>
-            <enclosure url="https://github.com/owlsay/releases/releases/download/v0.4.3/OwlSay-v0.4.3.dmg" length="5497074" type="application/octet-stream" sparkle:edSignature="d4ZnInCFkWXJYh9Y8jDj0tZ6nSZxS0jNTEpm4vGRNcB/bH/P0KzH+PPtFQg2zb0WEbINmnOK8IGHx5h8xaTeBA=="/>
-        </item>
-    </channel>
+        </channel>
 </rss>
