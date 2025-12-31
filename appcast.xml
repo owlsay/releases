@@ -1,5 +1,16 @@
-<rss version="2.0">
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
     <channel>
         <title>OwlSay</title>
-        </channel>
+        <item>
+            <title>0.4.2</title>
+            <pubDate>Wed, 31 Dec 2025 12:53:03 +0000</pubDate>
+            <link>https://github.com/owlsay/releases/releases</link>
+            <sparkle:version>45</sparkle:version>
+            <sparkle:shortVersionString>0.4.2</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <sparkle:releaseNotesLink>https://owlsay.github.io/releases/OwlSay-v0.4.2.html</sparkle:releaseNotesLink>
+            <enclosure url="https://github.com/owlsay/releases/releases/download/v0.4.2/OwlSay-v0.4.2.dmg" length="5496977" type="application/octet-stream" sparkle:edSignature="aUL8x3l9XLoWGQqRuImph8WanpvuIHXly46t7be2MT5kHetl7tGvL+TPZ/tpmTYLA+nfN7I1tb6y+5v5vBldDQ=="/>
+        </item>
+    </channel>
 </rss>
