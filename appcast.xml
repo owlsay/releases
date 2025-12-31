@@ -4,6 +4,16 @@
         <title>OwlSay</title>
         <item>
             <title>0.4.3</title>
+            <pubDate>Wed, 31 Dec 2025 12:06:33 +0000</pubDate>
+            <link>https://github.com/owlsay/releases/releases</link>
+            <sparkle:version>39</sparkle:version>
+            <sparkle:shortVersionString>0.4.3</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <sparkle:releaseNotesLink>https://owlsay.github.io/releases/OwlSay-v0.4.3.html</sparkle:releaseNotesLink>
+            <enclosure url="https://github.com/owlsay/releases/releases/download/v0.4.3/OwlSay-v0.4.3.dmg" length="5497074" type="application/octet-stream" sparkle:edSignature="d4ZnInCFkWXJYh9Y8jDj0tZ6nSZxS0jNTEpm4vGRNcB/bH/P0KzH+PPtFQg2zb0WEbINmnOK8IGHx5h8xaTeBA=="/>
+        </item>
+        <item>
+            <title>0.4.3</title>
             <pubDate>Wed, 31 Dec 2025 11:48:58 +0000</pubDate>
             <link>https://github.com/owlsay/releases/releases</link>
             <sparkle:version>37</sparkle:version>
@@ -21,15 +31,6 @@
             <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
             <sparkle:releaseNotesLink>https://owlsay.github.io/releases/OwlSay-v0.4.2.html</sparkle:releaseNotesLink>
             <enclosure url="https://github.com/owlsay/releases/releases/download/v0.4.2/OwlSay-v0.4.2.dmg" length="5497037" type="application/octet-stream" sparkle:edSignature="rTYfjxS35gxzrl4XisvrxzRqeJaxYoIkBIo49DqhrHlwybu22Llc1l7lPcEHW7AuC8ZZtbcm3p+9itrQEOHIAQ=="/>
-        </item>
-        <item>
-            <title>0.4.1</title>
-            <pubDate>Mon, 29 Dec 2025 07:33:27 +0000</pubDate>
-            <link>https://github.com/owlsay/releases/releases</link>
-            <sparkle:version>29</sparkle:version>
-            <sparkle:shortVersionString>0.4.1</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/owlsay/releases/releases/download/v0.4.1/OwlSay-v0.4.1.dmg" length="5497966" type="application/octet-stream" sparkle:edSignature="Oxu68IpHw0M23alxuog78tKGG2ctqHCVwB7VMI17IomnlwffGdjpbJ0/j19MyypuKOLEL8IPY6aToYQXjA2SCA=="/>
         </item>
     </channel>
 </rss>
