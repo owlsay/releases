@@ -3,6 +3,16 @@
     <channel>
         <title>OwlSay</title>
         <item>
+            <title>0.4.3</title>
+            <pubDate>Wed, 31 Dec 2025 11:48:58 +0000</pubDate>
+            <link>https://github.com/owlsay/releases/releases</link>
+            <sparkle:version>37</sparkle:version>
+            <sparkle:shortVersionString>0.4.3</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <sparkle:releaseNotesLink>https://owlsay.github.io/releases/OwlSay-v0.4.3.html</sparkle:releaseNotesLink>
+            <enclosure url="https://github.com/owlsay/releases/releases/download/v0.4.3/OwlSay-v0.4.3.dmg" length="5497066" type="application/octet-stream" sparkle:edSignature="qMbLWrVjcAcg1wlMywj4DmfhToZ/NScFSj1VsbByVMwUmWdfqgvNo4x4Fq8wLIJdyscopBalIKGHIiDn0VUXDA=="/>
+        </item>
+        <item>
             <title>0.4.2</title>
             <pubDate>Wed, 31 Dec 2025 11:41:55 +0000</pubDate>
             <link>https://github.com/owlsay/releases/releases</link>
@@ -20,15 +30,6 @@
             <sparkle:shortVersionString>0.4.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
             <enclosure url="https://github.com/owlsay/releases/releases/download/v0.4.1/OwlSay-v0.4.1.dmg" length="5497966" type="application/octet-stream" sparkle:edSignature="Oxu68IpHw0M23alxuog78tKGG2ctqHCVwB7VMI17IomnlwffGdjpbJ0/j19MyypuKOLEL8IPY6aToYQXjA2SCA=="/>
-        </item>
-        <item>
-            <title>0.4.0</title>
-            <pubDate>Mon, 08 Dec 2025 14:53:06 +0000</pubDate>
-            <link>https://github.com/owlsay/releases/releases</link>
-            <sparkle:version>28</sparkle:version>
-            <sparkle:shortVersionString>0.4.0</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/owlsay/releases/releases/download/v0.4.0/OwlSay-v0.4.0.dmg" length="5505451" type="application/octet-stream" sparkle:edSignature="KOxnwXd4qUOtBqddQITB8GMsSpitCL2F12e68iHzxD6fnl6LwzSEFUiasLRqh5oi8Hu+/7QYeOWMnkgh3F4VBw=="/>
         </item>
     </channel>
 </rss>
