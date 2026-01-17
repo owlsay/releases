@@ -3,14 +3,14 @@
     <channel>
         <title>OwlSay</title>
         <item>
-            <title>0.4.5</title>
-            <pubDate>Wed, 14 Jan 2026 10:02:10 +0000</pubDate>
+            <title>0.4.6</title>
+            <pubDate>Sat, 17 Jan 2026 16:21:52 +0000</pubDate>
             <link>https://github.com/owlsay/releases/releases</link>
-            <sparkle:version>49</sparkle:version>
-            <sparkle:shortVersionString>0.4.5</sparkle:shortVersionString>
+            <sparkle:version>50</sparkle:version>
+            <sparkle:shortVersionString>0.4.6</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
-            <sparkle:releaseNotesLink>https://owlsay.github.io/releases/OwlSay-v0.4.5.html</sparkle:releaseNotesLink>
-            <enclosure url="https://github.com/owlsay/releases/releases/download/v0.4.5/OwlSay-v0.4.5.dmg" length="5494488" type="application/octet-stream" sparkle:edSignature="CQopHd/Qh4XwE/7Y5G6B0C+m/wzoK+er/DcPtS4C8SW18F105+kRLh0gAcZoQCzqJ6IHF+0ahtennmubE4ESAg=="/>
+            <sparkle:releaseNotesLink>https://owlsay.github.io/releases/OwlSay-v0.4.6.html</sparkle:releaseNotesLink>
+            <enclosure url="https://github.com/owlsay/releases/releases/download/v0.4.6/OwlSay-v0.4.6.dmg" length="5497637" type="application/octet-stream" sparkle:edSignature="4sGa0oljnNOryuQuOhJi2QCS3gp+0/CVKMKUhOt3gDfwEZ1+zKbf4cR2yLPQOzVs8gWdg8SrrKtkg5G5AcRRDQ=="/>
         </item>
     </channel>
 </rss>
